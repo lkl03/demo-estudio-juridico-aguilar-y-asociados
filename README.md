@@ -1,2 +1,7 @@
-# demo-estudio-juridico-aguilar-y-asociados
-Demo web para ESTUDIO JURIDICO AGUILAR Y ASOCIADOS — diseñada por eterlab.
+# ESTUDIO JURIDICO AGUILAR Y ASOCIADOS
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
